@@ -1,7 +1,7 @@
 # List of the Most Ridiculous Excuses People Gave for Being Late
 
 ## Project Idea
-The idea of this project is to create a list of the most ridiculous and funny excuses people have given for being late. Users will be able to submit their own excuses, vote on others, and view the most popular ones.
+The idea of this project is to create a list of the most ridiculous and funny excuses people have given for being late. Users will be able to submit their own excuses, vote on others, and view the most popular ones. This project brings joy to the users.
 
 ## Key Features
 - **User Authentication**: Users can register and log in to submit their excuses.
